@@ -1,0 +1,14 @@
+
+<form id="233420288">
+<property name="name" value="assignTasks-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="unparsedLoops" type="InputText" id="2066808701">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;t_unparsedLoops (unparsedLoops)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="t_unparsedLoops"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="t_unparsedLoops" value="java.lang.String" id="unparsedLoops"/>
+</form>

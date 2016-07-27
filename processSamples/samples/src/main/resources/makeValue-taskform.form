@@ -1,0 +1,14 @@
+
+<form id="1209660357">
+<property name="name" value="makeValue-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="sample" type="InputText" id="604056327">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;t_sample (sample)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="t_sample"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="t_sample" value="java.lang.String" id="sample"/>
+</form>
